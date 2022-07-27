@@ -1,2 +1,2 @@
-# John Smith 
-Rennes
+# Romain Yvinec
+INRAE Tours
